@@ -107,24 +107,37 @@ The outputs at the frontend,database and backend parts are attached below.
 Front end:
 ![reactoutput]
 
+![react](https://github.com/paulselvi2022/Fullstack-Employee-Management-System/assets/120387943/130e1364-7b8f-4b2d-95c2-ea072a0d54d4)
 
 Backend:
 ![backendoutput]
+
+![springboot](https://github.com/paulselvi2022/Fullstack-Employee-Management-System/assets/120387943/d75a33f0-3213-4084-814d-319fd358d104)
 
 
 Database:
 ![MySql Database]
 
+![mysql](https://github.com/paulselvi2022/Fullstack-Employee-Management-System/assets/120387943/aa5688f3-2920-4352-b520-499b25d1f78e)
+
 POSTMAN API:
 
+![GET API](https://github.com/paulselvi2022/Fullstack-Employee-Management-System/assets/120387943/acccdaa7-dc86-4c35-9a04-fd7f1e5dd1e9)
+
+![POST API](https://github.com/paulselvi2022/Fullstack-Employee-Management-System/assets/120387943/a378c856-7265-4319-8792-aa9c05b455ea)
 
 
 ### And coding style tests
-During debugging,the output is shown below,
+The final output is shown below,
 
-![coderun]-Eclipse IDE
+![Update Employee](https://github.com/paulselvi2022/Fullstack-Employee-Management-System/assets/120387943/5fd0fb38-12e9-4247-add8-3b571c212b50)
 
-![coderun]-React
+![Add Employeee](https://github.com/paulselvi2022/Fullstack-Employee-Management-System/assets/120387943/f07a8c72-31d7-4c3c-b221-5664663051f9)
+
+![View Employee](https://github.com/paulselvi2022/Fullstack-Employee-Management-System/assets/120387943/e858e189-212f-40af-96e8-3895146ba749)
+
+
+![List of Employees](https://github.com/paulselvi2022/Fullstack-Employee-Management-System/assets/120387943/3ae2d53f-a314-437c-85cb-dcdb87261f05)
 
 
 
